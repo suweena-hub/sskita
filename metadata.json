@@ -1,0 +1,6 @@
+{
+  "name": "MOPH-ITA โรงพยาบาลชุมชน",
+  "description": "ระบบจัดการ ติดตาม และเปิดเผยข้อมูลการประเมินคุณธรรมและความโปร่งใส (MOPH ITA) โรงพยาบาลชุมชน ตามเกณฑ์ ป.ป.ช. และกระทรวงสาธารณสุข MOIT 1 - MOIT 22",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
